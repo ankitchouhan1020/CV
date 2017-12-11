@@ -1,0 +1,40 @@
+body 
+{
+	padding-top: 60px;
+
+}
+.container
+{
+	max-width=1000px;
+}
+#feature1
+{
+	background-color : #ffff00;
+	padding-left :30px;
+	padding-right :30px;
+	padding-top :60px;
+	padding-bottom :60px;
+	margin-top : 50px;
+}
+.abouts
+{
+	padding-top : 60px;
+}
+#main
+{ padding-left :30px;
+  padding-bottom : 30px;
+}
+
+.footer
+{
+	padding-bottom :40px;
+	
+}
+
+.menu
+{
+	text-align : center;
+	padding-top : 60 px;
+}
+
+
